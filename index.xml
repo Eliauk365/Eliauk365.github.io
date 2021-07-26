@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>冰桃美酒</title>
+        <link>http://example.org/</link>
+        <description>冰桃美酒</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>cunglahaubiennhu@gmail.com (酒醉)</managingEditor>
+            <webMaster>cunglahaubiennhu@gmail.com (酒醉)</webMaster><lastBuildDate>Mon, 26 Jul 2021 16:10:16 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>First_post</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Mon, 26 Jul 2021 16:10:16 &#43;0800</pubDate><author>
+        <name>酒醉</name>
+    </author><guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
