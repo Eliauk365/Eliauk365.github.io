@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - 冰桃美酒</title>
+        <link>https://blog.kexsw.top/categories/</link>
+        <description>Categories - 分类 - 冰桃美酒</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasminewilson9782@gmail.com (冰桃)</managingEditor>
+            <webMaster>jasminewilson9782@gmail.com (冰桃)</webMaster><atom:link href="https://blog.kexsw.top/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>
