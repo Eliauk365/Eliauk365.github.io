@@ -116,6 +116,27 @@ GitHub地址：[点击直达](https://github.com/233boy/v2ray)
 bash <(wget -qO- -o- https://git.io/v2ray.sh)
 ```
 
+## fhs-install-v2ray
+
+推荐指数：未知
+
+介绍：Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd
+
+Github地址：[点击直达](https://github.com/v2fly/fhs-install-v2ray)
+
+脚本直达
+
+```bash
+# 安裝執行檔和 .dat 資料檔
+bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
+
+# 只更新 .dat 資料檔
+bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-dat-release.sh)
+
+# 移除 V2Ray
+bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh) --remove
+```
+
 # NaiveProxy一键脚本
 
 ## MisakaNo-NaiveProxy
@@ -194,13 +215,19 @@ bash <(curl -fsSL https://git.io/hysteria.sh)
 
 GitHub地址：[点击直达-魔改版](https://github.com/FranzKafkaYu/x-ui)
 
+GitHub地址：[点击直达-伊朗魔改版](https://github.com/MHSanaei/3x-ui)
+
 GitHub地址：[点击直达-原版](https://github.com/vaxilu/x-ui)
 
 脚本直达
 
 ```bash
+# 魔改版
 # ⚡从原版升级也可使用该命令，数据不会丢失⚡
 bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)
+
+# 伊朗魔改版
+bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 ```
 
 ## Trojan Panel

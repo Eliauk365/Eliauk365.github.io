@@ -39,7 +39,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/blog.kexsw.top\/%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%8C%87%E5%8D%97\/"
-        },"genre": "posts","keywords": "脚本, 魔法上网","wordcount":  1674 ,
+        },"genre": "posts","keywords": "脚本, 魔法上网","wordcount":  1822 ,
         "url": "https:\/\/blog.kexsw.top\/%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%8C%87%E5%8D%97\/","datePublished": "2023-05-26T23:48:09+08:00","dateModified": "2023-05-26T23:48:09+08:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -136,7 +136,7 @@
             <div class="post-meta-line">
                 <span class="post-author"><span class="author fas fa-user-circle fa-fw"></span><a href="/" title="Author" rel=" author" class="author">逍遥客</a>
                 </span>&nbsp;<span class="post-category">收录于 </span>&nbsp;<span class="post-category">类别 <a href="/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"><i class="far fa-folder fa-fw"></i>科学上网</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2023-05-26">2023-05-26</time>&nbsp;<i class="far fa-edit fa-fw"></i>&nbsp;<time datetime="2023-05-26">2023-05-26</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 1674 字&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2023-05-26">2023-05-26</time>&nbsp;<i class="far fa-edit fa-fw"></i>&nbsp;<time datetime="2023-05-26">2023-05-26</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 1822 字&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 4 分钟&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="true">
                 <div class="details-summary toc-title">
@@ -157,6 +157,7 @@
   <ul>
     <li><a href="#v2ray_ws-tls_bash_onekey">V2Ray_ws-tls_bash_onekey</a></li>
     <li><a href="#233boy-v2ray">233boy-V2ray</a></li>
+    <li><a href="#fhs-install-v2ray">fhs-install-v2ray</a></li>
   </ul>
 
   <ul>
@@ -299,6 +300,33 @@
 <pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">bash &lt;<span class="o">(</span>wget -qO- -o- https://git.io/v2ray.sh<span class="o">)</span>
 </span></span></code></pre></td></tr></table>
 </div>
+</div><h2 id="fhs-install-v2ray" class="headerLink">
+    <a href="#fhs-install-v2ray" class="header-mark"></a>fhs-install-v2ray</h2><p>推荐指数：未知</p>
+<p>介绍：Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd</p>
+<p>Github地址：<a href="https://github.com/v2fly/fhs-install-v2ray" target="_blank" rel="noopener noreferrer">点击直达</a></p>
+<p>脚本直达</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># 安裝執行檔和 .dat 資料檔</span>
+</span></span><span class="line"><span class="cl">bash &lt;<span class="o">(</span>curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh<span class="o">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 只更新 .dat 資料檔</span>
+</span></span><span class="line"><span class="cl">bash &lt;<span class="o">(</span>curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-dat-release.sh<span class="o">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 移除 V2Ray</span>
+</span></span><span class="line"><span class="cl">bash &lt;<span class="o">(</span>curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh<span class="o">)</span> --remove
+</span></span></code></pre></td></tr></table>
+</div>
 </div><h1 id="naiveproxy一键脚本" class="headerLink">
     <a href="#naiveproxy%e4%b8%80%e9%94%ae%e8%84%9a%e6%9c%ac" class="header-mark"></a>NaiveProxy一键脚本</h1><h2 id="misakano-naiveproxy" class="headerLink">
     <a href="#misakano-naiveproxy" class="header-mark"></a>MisakaNo-NaiveProxy</h2><p>推荐指数：未知</p>
@@ -368,16 +396,25 @@
     <a href="#x-ui" class="header-mark"></a>x-ui</h2><p>推荐指数：⭐⭐⭐⭐⭐</p>
 <p>介绍：支持单端口多用户、多协议的 xray 面板，究极缝合怪，通过免费的Telegram bot方便快捷地进行监控、管理你的代理服务</p>
 <p>GitHub地址：<a href="https://github.com/FranzKafkaYu/x-ui" target="_blank" rel="noopener noreferrer">点击直达-魔改版</a></p>
+<p>GitHub地址：<a href="https://github.com/MHSanaei/3x-ui" target="_blank" rel="noopener noreferrer">点击直达-伊朗魔改版</a></p>
 <p>GitHub地址：<a href="https://github.com/vaxilu/x-ui" target="_blank" rel="noopener noreferrer">点击直达-原版</a></p>
 <p>脚本直达</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
 </span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
 </span></code></pre></td>
 <td class="lntd">
-<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># ⚡从原版升级也可使用该命令，数据不会丢失⚡</span>
+<pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="c1"># 魔改版</span>
+</span></span><span class="line"><span class="cl"><span class="c1"># ⚡从原版升级也可使用该命令，数据不会丢失⚡</span>
 </span></span><span class="line"><span class="cl">bash &lt;<span class="o">(</span>curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh<span class="o">)</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="c1"># 伊朗魔改版</span>
+</span></span><span class="line"><span class="cl">bash &lt;<span class="o">(</span>curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh<span class="o">)</span>
 </span></span></code></pre></td></tr></table>
 </div>
 </div><h2 id="trojan-panel" class="headerLink">
