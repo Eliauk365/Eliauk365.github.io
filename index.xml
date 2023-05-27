@@ -4,21 +4,14 @@
         <link>https://blog.kexsw.top/</link>
         <description>科技与很活</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasminewilson9782@gmail.com (冰桃)</managingEditor>
-            <webMaster>jasminewilson9782@gmail.com (冰桃)</webMaster><lastBuildDate>Mon, 26 Jul 2021 16:10:16 &#43;0800</lastBuildDate>
+            <webMaster>jasminewilson9782@gmail.com (冰桃)</webMaster>
             <atom:link href="https://blog.kexsw.top/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>First_post</title>
-    <link>https://blog.kexsw.top/first_post/</link>
-    <pubDate>Mon, 26 Jul 2021 16:10:16 &#43;0800</pubDate><author>
-        <name>冰桃</name>
-    </author><guid>https://blog.kexsw.top/first_post/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
     <title></title>
     <link>https://blog.kexsw.top/test/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
         <name>冰桃</name>
     </author><guid>https://blog.kexsw.top/test/</guid>
-    <description><![CDATA[title: &ldquo;Test&rdquo; date: 2021-07-27T08:25:33+08:00 draft: false tags: [] tags: [test] categories: [test] 这是一个test这是一个test。]]></description>
+    <description><![CDATA[title: &ldquo;Test&rdquo; date: 2021-07-27T08:25:33+08:00 draft: false tags: [] tags: [test] categories: [test] 这是一个测试文件这是一个测试，为了博客功能是否正常。]]></description>
 </item></channel>
 </rss>

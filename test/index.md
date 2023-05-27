@@ -4,7 +4,7 @@
  * @Author: Xu Sijin
  * @Date: 2021-07-27 08:25:33
  * @LastEditors: Xu Sijin
- * @LastEditTime: 2023-05-25 00:04:28
+ * @LastEditTime: 2023-05-27 00:17:25
  * @FilePath: \xu-blog\content\posts\test.md
  * @Description: 
  * 
@@ -20,7 +20,7 @@ tags: [test]
 categories: [test]
 ---
 
-## 这是一个test
+# 这是一个测试文件
 
-这是一个test。
+这是一个测试，为了博客功能是否正常。
 
