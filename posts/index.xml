@@ -1,15 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - 冰桃美酒</title>
+        <title>所有文章 - 逍遥居</title>
         <link>https://blog.kexsw.top/posts/</link>
-        <description>所有文章 | 冰桃美酒</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasminewilson9782@gmail.com (冰桃)</managingEditor>
-            <webMaster>jasminewilson9782@gmail.com (冰桃)</webMaster><atom:link href="https://blog.kexsw.top/posts/" rel="self" type="application/rss+xml" /><item>
-    <title></title>
+        <description>所有文章 | 逍遥居</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasminewilson9782@gmail.com (逍遥客)</managingEditor>
+            <webMaster>jasminewilson9782@gmail.com (逍遥客)</webMaster><lastBuildDate>Fri, 26 May 2023 23:48:09 &#43;0800</lastBuildDate><atom:link href="https://blog.kexsw.top/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>魔法上网一键脚本指南</title>
+    <link>https://blog.kexsw.top/%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%8C%87%E5%8D%97/</link>
+    <pubDate>Fri, 26 May 2023 23:48:09 &#43;0800</pubDate><author>
+        <name>逍遥客</name>
+    </author><guid>https://blog.kexsw.top/%E9%AD%94%E6%B3%95%E4%B8%8A%E7%BD%91%E4%B8%80%E9%94%AE%E8%84%9A%E6%9C%AC%E6%8C%87%E5%8D%97/</guid>
+    <description><![CDATA[前言 风险提示：一键脚本使用存在风险，包括但是不限于系统被不安全的脚本入侵或病毒攻击。 关于推荐指数：⭐⭐⭐⭐⭐ 为最高推荐，未知代表本人使用次数]]></description>
+</item><item>
+    <title>Test</title>
     <link>https://blog.kexsw.top/test/</link>
-    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
-        <name>冰桃</name>
+    <pubDate>Tue, 27 Jul 2021 08:25:33 &#43;0800</pubDate><author>
+        <name>逍遥客</name>
     </author><guid>https://blog.kexsw.top/test/</guid>
-    <description><![CDATA[title: &ldquo;Test&rdquo; date: 2021-07-27T08:25:33+08:00 draft: false tags: [] tags: [test] categories: [test] 这是一个测试文件这是一个测试，为了博客功能是否正常。]]></description>
+    <description><![CDATA[这是一个测试文件这是一个测试，为了博客功能是否正常。]]></description>
 </item></channel>
 </rss>
