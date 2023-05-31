@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://blog.kexsw.top/about/</loc><lastmod>2023-05-27T15:49:47&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://blog.kexsw.top/categories/</loc><lastmod>2023-05-26T23:48:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://blog.kexsw.top/posts/</loc><lastmod>2023-05-26T23:48:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://blog.kexsw.top/tags/</loc><lastmod>2023-05-26T23:48:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
