@@ -1,8 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Series - 系列 - 逍遥居</title>
-        <link>https://blog.kexsw.top/series/</link>
-        <description>Series - 系列 - 逍遥居</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasminewilson9782@gmail.com (逍遥客)</managingEditor>
-            <webMaster>jasminewilson9782@gmail.com (逍遥客)</webMaster><atom:link href="https://blog.kexsw.top/series/" rel="self" type="application/rss+xml" /></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Series - 系列 - 逍遥居</title><link>https://blog.kexsw.top/series/</link><description>Series - 系列 - 逍遥居</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasminewilson9782@gmail.com (逍遥客)</managingEditor><webMaster>jasminewilson9782@gmail.com (逍遥客)</webMaster><atom:link href="https://blog.kexsw.top/series/" rel="self" type="application/rss+xml"/></channel></rss>

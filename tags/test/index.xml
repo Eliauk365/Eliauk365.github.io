@@ -1,15 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>test - 标签 - 逍遥居</title>
-        <link>https://blog.kexsw.top/tags/test/</link>
-        <description>test - 标签 - 逍遥居</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasminewilson9782@gmail.com (逍遥客)</managingEditor>
-            <webMaster>jasminewilson9782@gmail.com (逍遥客)</webMaster><lastBuildDate>Tue, 27 Jul 2021 08:25:33 &#43;0800</lastBuildDate><atom:link href="https://blog.kexsw.top/tags/test/" rel="self" type="application/rss+xml" /><item>
-    <title>Test</title>
-    <link>https://blog.kexsw.top/test/</link>
-    <pubDate>Tue, 27 Jul 2021 08:25:33 &#43;0800</pubDate><author>
-        <name>逍遥客</name>
-    </author><guid>https://blog.kexsw.top/test/</guid>
-    <description><![CDATA[这是一个测试文件这是一个测试，为了博客功能是否正常。]]></description>
-</item></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Test - 标签 - 逍遥居</title><link>https://blog.kexsw.top/tags/test/</link><description>Test - 标签 - 逍遥居</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasminewilson9782@gmail.com (逍遥客)</managingEditor><webMaster>jasminewilson9782@gmail.com (逍遥客)</webMaster><lastBuildDate>Tue, 27 Jul 2021 08:25:33 +0800</lastBuildDate><atom:link href="https://blog.kexsw.top/tags/test/" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://blog.kexsw.top/test/</link><pubDate>Tue, 27 Jul 2021 08:25:33 +0800</pubDate><author><name>逍遥客</name></author><guid>https://blog.kexsw.top/test/</guid><description>这是一个测试文件这是一个测试，为了博客功能是否正常。</description></item></channel></rss>
