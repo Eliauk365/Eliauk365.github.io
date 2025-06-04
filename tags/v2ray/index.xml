@@ -1,1 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>V2ray - 标签 - 逍遥居</title><link>https://blog.kexsw.top/tags/v2ray/</link><description>V2ray - 标签 - 逍遥居</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasminewilson9782@gmail.com (逍遥客)</managingEditor><webMaster>jasminewilson9782@gmail.com (逍遥客)</webMaster><lastBuildDate>Wed, 17 Apr 2024 15:52:58 +0800</lastBuildDate><atom:link href="https://blog.kexsw.top/tags/v2ray/" rel="self" type="application/rss+xml"/><item><title>记录一次因时间问题导致的代理失效问题</title><link>https://blog.kexsw.top/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%9B%A0%E6%97%B6%E9%97%B4%E9%97%AE%E9%A2%98%E5%AF%BC%E8%87%B4%E7%9A%84%E4%BB%A3%E7%90%86%E5%A4%B1%E6%95%88%E9%97%AE%E9%A2%98/</link><pubDate>Wed, 17 Apr 2024 15:52:58 +0800</pubDate><author><name>逍遥客</name></author><guid>https://blog.kexsw.top/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%9B%A0%E6%97%B6%E9%97%B4%E9%97%AE%E9%A2%98%E5%AF%BC%E8%87%B4%E7%9A%84%E4%BB%A3%E7%90%86%E5%A4%B1%E6%95%88%E9%97%AE%E9%A2%98/</guid><description>前言前几天的时候代理突然失效，报了下列错误。因为工作太忙了，就没有管它（这个代理只是在工作中使用）。虽然当时已经发现了电脑的时间不对，但是没</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>V2ray - 标签 - 逍遥居</title><link>https://blog.kexsw.top/tags/v2ray/</link><description>V2ray - 标签 - 逍遥居</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jasminewilson9782@gmail.com (逍遥客)</managingEditor><webMaster>jasminewilson9782@gmail.com (逍遥客)</webMaster><lastBuildDate>Wed, 17 Apr 2024 15:52:58 +0800</lastBuildDate><atom:link href="https://blog.kexsw.top/tags/v2ray/" rel="self" type="application/rss+xml"/><item><title>记录一次因时间问题导致的代理失效问题</title><link>https://blog.kexsw.top/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%9B%A0%E6%97%B6%E9%97%B4%E9%97%AE%E9%A2%98%E5%AF%BC%E8%87%B4%E7%9A%84%E4%BB%A3%E7%90%86%E5%A4%B1%E6%95%88%E9%97%AE%E9%A2%98/</link><pubDate>Wed, 17 Apr 2024 15:52:58 +0800</pubDate><author><name>逍遥客</name></author><guid>https://blog.kexsw.top/%E8%AE%B0%E5%BD%95%E4%B8%80%E6%AC%A1%E5%9B%A0%E6%97%B6%E9%97%B4%E9%97%AE%E9%A2%98%E5%AF%BC%E8%87%B4%E7%9A%84%E4%BB%A3%E7%90%86%E5%A4%B1%E6%95%88%E9%97%AE%E9%A2%98/</guid><description><![CDATA[<h2 id="前言" class="headerLink">
+    <a href="#%e5%89%8d%e8%a8%80" class="header-mark"></a>前言</h2><p>前几天的时候代理突然失效，报了下列错误。因为工作太忙了，就没有管它（这个代理只是在工作中使用）。虽然当时已经发现了电脑的时间不对，但是没有想到这个问题会导致代理失效。今天终于有时间了，开始着手摸鱼的时候解决这个问题</p>
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">txt</p>]]></description></item></channel></rss>
